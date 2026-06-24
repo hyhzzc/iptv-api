@@ -2,7 +2,17 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-
+http://wl.iptv4.top/wl/a/1691001273.txt
+https://pan.shangui.cc/f/Mgwlty/jwtvlink7.txt
+https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.m3u
+https://tvkj.top/tvlive.txt
+ https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/live.txt
+http://shuyuan.miaogongzi.net/shuyuan/1663651243.txt
+https://cdn.jsdelivr.net/gh/chengxueli818913/maoTV@main/44.txt
+https://cdn.jsdelivr.net/gh/GaiVmao/dianshiyuan@main/yuan2.txt
+https://gitee.com/jjjsndjdjjjjd/tv-storage/raw/master/tv.txt
+https://wds.ecsxs.com/223843.txt
+https://wds.ecsxs.com/213766.txt
 
 
 
